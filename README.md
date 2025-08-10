@@ -39,10 +39,11 @@ You'll need one of these browser extensions:
 - [Greasemonkey](https://www.greasespot.net/)
 
 ### Install Steps
-1. Install a userscript manager extension (links above)
-2. Click on the raw file link: [stake-packs-manager.user.js](stake-packs-manager.user.js)
-3. Your userscript manager will prompt you to install
+1. Install a userscript manager extension from the links above
+2. Open the raw script file: [stake-packs-manager.user.js](https://raw.githubusercontent.com/w8t/stake-packs-manager/main/stake-packs-manager.user.js)
+3. Your userscript manager will detect the script and prompt installation
 4. Click "Install" or "Confirm Installation"
+5. Navigate to Stake.us and the Packs game to start using
 
 ## Usage 💡
 
@@ -96,18 +97,20 @@ The manager appears as a draggable panel on the right side of the screen with th
 4. **Track Performance**: Use the RTP and profit metrics to gauge performance
 5. **Save Settings**: Configure your preferences and save them for future sessions
 
-## Keyboard Shortcuts ⌨️
+## Interface Controls 🎮
 
-- **Minimize Panel**: Click the `_` button in the header
+- **Minimize Panel**: Click the `_` button in the header to collapse/expand
 - **Close Panel**: Click the `✕` button (will confirm if betting is active)
-- **Drag to Move**: Click and drag the header to reposition
+- **Drag to Move**: Click and drag the header to reposition the panel
+- **Quick Bet Lookup**: Press Enter in the Bet ID field to lookup
 
 ## Technical Details 🔧
 
 - **Version**: 2.0
 - **Compatibility**: Stake.us only
-- **Browser Support**: Chrome, Firefox, Edge (with userscript manager)
-- **Update Method**: Auto-update through userscript manager
+- **Browser Support**: Chrome, Firefox, Edge, Safari (with userscript manager)
+- **Language**: JavaScript
+- **Dependencies**: None (standalone userscript)
 
 ## Troubleshooting 🔍
 
@@ -128,7 +131,7 @@ The manager appears as a draggable panel on the right side of the screen with th
 
 ## Disclaimer ⚠️
 
-This tool is for educational purposes. Please gamble responsibly and never bet more than you can afford to lose. The authors are not responsible for any losses incurred while using this tool.
+This tool is provided for educational and entertainment purposes only. Gambling involves risk, and you should never bet more than you can afford to lose. The authors are not responsible for any losses incurred while using this tool. Please gamble responsibly and be aware of your local laws regarding online gambling.
 
 ## Support 💬
 
