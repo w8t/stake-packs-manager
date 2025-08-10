@@ -1,0 +1,28 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Folders to ignore
+old stuff/
+.claude/
+
+# Test and sample files
+*.log
+test-*.js
+sample-*.js
+paste*.js
+bet-lookup.js
+intercept-bet.js
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
