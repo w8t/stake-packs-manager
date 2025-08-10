@@ -40,7 +40,7 @@ You'll need one of these browser extensions:
 
 ### Install Steps
 1. Install a userscript manager extension (links above)
-2. Click on the raw file link: [stake-packs-manager.user.js](violentmonkey/stake-packs-manager.user.js)
+2. Click on the raw file link: [stake-packs-manager.user.js](stake-packs-manager.user.js)
 3. Your userscript manager will prompt you to install
 4. Click "Install" or "Confirm Installation"
 
@@ -105,7 +105,7 @@ The manager appears as a draggable panel on the right side of the screen with th
 ## Technical Details 🔧
 
 - **Version**: 2.0
-- **Compatibility**: Stake.us and Stake.com
+- **Compatibility**: Stake.us only
 - **Browser Support**: Chrome, Firefox, Edge (with userscript manager)
 - **Update Method**: Auto-update through userscript manager
 
